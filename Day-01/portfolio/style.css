@@ -26,3 +26,8 @@ a{
 a:hover{
     color: blue;
 }
+section, footer{
+    padding: 15px 80px ;
+    display: flex;
+    flex-direction: column;
+}
